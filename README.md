@@ -1,4 +1,4 @@
 # example
-it is an example repository for ECRI git course
+This is an example repository for ECRI git course
 
-here are some changes made locally
+Here are some changes made locally
